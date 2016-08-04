@@ -1,0 +1,20 @@
+{
+    "author": {
+        "name": "EasyterraBV"
+    },
+    "name": "etv5-backend-angular-bootstrap-dependencies",
+    "keywords": [
+        "angular",
+        "angular-ui",
+        "bootstrap"
+    ],
+    "license": "MIT",
+    "ignore": [],
+    "description": "created by https://angular-ui.github.io/bootstrap/ custom build: Buttons + Modal",
+    "version": "2.0.1",
+    "main": ["./ui-bootstrap-tpls.js"],
+    "dependencies": {
+        "angular": ">=1.4.0"
+    }
+}
+
