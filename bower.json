@@ -10,11 +10,11 @@
     ],
     "license": "MIT",
     "ignore": [],
-    "description": "created by https://angular-ui.github.io/bootstrap/ custom build: Buttons + Modal",
+    "description": "created by https://angular-ui.github.io/bootstrap/ custom build for 2.5: Buttons + Modal",
     "version": "2.0.1",
     "main": ["./ui-bootstrap-tpls.js"],
     "dependencies": {
-        "angular": ">=1.4.0"
+        "angular": ">=1.6.0”
     }
 }
 
