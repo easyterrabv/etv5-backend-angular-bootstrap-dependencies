@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "etv5-backend-angular-bootstrap-dependencies@github:easyterrabv/etv5-backend-angular-bootstrap-dependencies",
+        "scope": null,
+        "escapedName": "etv5-backend-angular-bootstrap-dependencies",
+        "name": "etv5-backend-angular-bootstrap-dependencies",
+        "rawSpec": "github:easyterrabv/etv5-backend-angular-bootstrap-dependencies",
+        "spec": "github:easyterrabv/etv5-backend-angular-bootstrap-dependencies",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:easyterrabv/etv5-backend-angular-bootstrap-dependencies.git",
+          "sshUrl": "git+ssh://git@github.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies.git",
+          "httpsUrl": "git+https://github.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies.git",
+          "gitUrl": "git://github.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies.git",
+          "shortcut": "github:easyterrabv/etv5-backend-angular-bootstrap-dependencies",
+          "directUrl": "https://raw.githubusercontent.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies/master/package.json"
+        }
+      },
+      "/Users/erikbaan/et/etv5-backend"
+    ]
+  ],
+  "_from": "easyterrabv/etv5-backend-angular-bootstrap-dependencies",
+  "_id": "etv5-backend-angular-bootstrap-dependencies@1.0.1",
+  "_inCache": true,
+  "_location": "/etv5-backend-angular-bootstrap-dependencies",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "etv5-backend-angular-bootstrap-dependencies@github:easyterrabv/etv5-backend-angular-bootstrap-dependencies",
+    "scope": null,
+    "escapedName": "etv5-backend-angular-bootstrap-dependencies",
+    "name": "etv5-backend-angular-bootstrap-dependencies",
+    "rawSpec": "github:easyterrabv/etv5-backend-angular-bootstrap-dependencies",
+    "spec": "github:easyterrabv/etv5-backend-angular-bootstrap-dependencies",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:easyterrabv/etv5-backend-angular-bootstrap-dependencies.git",
+      "sshUrl": "git+ssh://git@github.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies.git",
+      "httpsUrl": "git+https://github.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies.git",
+      "gitUrl": "git://github.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies.git",
+      "shortcut": "github:easyterrabv/etv5-backend-angular-bootstrap-dependencies",
+      "directUrl": "https://raw.githubusercontent.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies.git#15784514709a5bf08082b7bd48f5bec0247fcc1f",
+  "_shasum": "1e15c55964256d3f86d1abd88bd424e15312a969",
+  "_shrinkwrap": null,
+  "_spec": "etv5-backend-angular-bootstrap-dependencies@github:easyterrabv/etv5-backend-angular-bootstrap-dependencies",
+  "_where": "/Users/erikbaan/et/etv5-backend",
+  "author": {
+    "name": "EasyTerra B.V."
+  },
+  "bugs": {
+    "url": "https://github.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies/issues"
+  },
+  "dependencies": {},
+  "description": "created by https://angular-ui.github.io/bootstrap/ custom build: Buttons + Modal",
+  "devDependencies": {},
+  "gitHead": "15784514709a5bf08082b7bd48f5bec0247fcc1f",
+  "homepage": "https://github.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies#readme",
+  "name": "etv5-backend-angular-bootstrap-dependencies",
+  "optionalDependencies": {},
+  "readme": "created by https://angular-ui.github.io/bootstrap/ custom build: Buttons + Modal\n\nONLY UPDATES FROM angular-ui.github.io ALLOWED.\nDONT EDIT ANYTHING MANUALLY INSIDE THIS REPO. \n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easyterrabv/etv5-backend-angular-bootstrap-dependencies.git"
+  },
+  "version": "1.0.1"
+}
